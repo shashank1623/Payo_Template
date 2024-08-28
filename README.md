@@ -1,3 +1,7 @@
+# Payo - Simplifying Your Every Transaction, Within a Blink.
+
+Payo is a modern, wallet-based banking application designed to make your financial transactions seamless and hassle-free. Whether you're depositing or withdrawing money from your bank accounts, sending funds to friends, receiving payments, or making purchases from merchants, Payo is your all-in-one solution. With an intuitive interface and cutting-edge technology, Payo simplifies your every transaction, all within a blink.
+
 # Turborepo starter
 
 This is an official starter Turborepo.
